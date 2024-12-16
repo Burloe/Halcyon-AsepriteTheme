@@ -1,0 +1,19 @@
+{
+  "name": "horizon-sundown",
+  "displayName": "Horizon Sundown",
+  "description": "Dark Horizon theme for Aseprite(inspired heavily by Horizon VSCode theme)",
+  "version": "1.0",
+  "author": { "name": "Burloe", "email": "burloe@proton.me", "url": "https://burloe.itch.io/" },
+  "contributors": [
+  ],
+  "publisher": "Burloe",
+  "license": "MIT",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "Horizon Sundown Theme", "path": "." }
+    ]
+  }
+}
