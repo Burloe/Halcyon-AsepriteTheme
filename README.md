@@ -5,4 +5,3 @@ This theme gives Aseprite a subtle facelift along with custom icons to spruce up
 ## ![coverimg200](https://github.com/user-attachments/assets/b9f913e9-29ce-412f-bf0d-e7b7b49c45e9)
 ## ![EditorShowcase](https://github.com/user-attachments/assets/040c3280-37a2-494c-bf69-e4f7c480fce3)
 Inspired by the visual themes of the game Dead Cells and the color palette from the VSCode theme Horizon.
-
