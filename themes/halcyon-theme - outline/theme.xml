@@ -3,10 +3,6 @@
     <authors>
         <author name="Burloe" url="https://burloe.itch.io/"/>
     </authors>
-    <fonts>
-        <font id="default" font="Aseprite"/>
-        <font id="mini" font="Aseprite Mini" mnemonics="off"/>
-    </fonts>
     <dimensions>
         <dim id="scrollbar_size" value="12"/>
         <dim id="mini_scrollbar_size" value="6"/>
@@ -35,7 +31,7 @@
         <!-- General text selected/focused -->
         <color id="text_hot" value="#f43f5c" new="true"/>
         <!-- Detail text -->
-        <color id="detail_text" value="#2c2c30" new="true"/>
+        <color id="detail_text" value="#f09383" new="true"/>
         <!-- Disabled (general?) text -->
         <color id="disabled" value="#202125"/>
         <!-- General face panel -->
@@ -43,7 +39,7 @@
         <!-- General face panel selected/focused -->
         <color id="hot_face" value="#fff100"/>
         <!-- Unknown -->
-        <color id="selected" value="#e1b85f"/>
+        <color id="selected" value="#12586a"/>
         <!-- Unknown -->
         <color id="selected_text" value="#41444a"/>
         <!--  -->
@@ -58,9 +54,9 @@
         <color id="button_normal_text" value="#1d8991"/>
         <color id="button_hot_text" value="#6c6f93"/>
         <color id="button_selected_text" value="#ffffff"/>
-        <color id="check_hot_face" value="#575b61"/>
+        <color id="check_hot_face" value="#f09383"/>
         <color id="check_focus_face" value="#41444a"/>
-        <color id="radio_hot_face" value="#575b61"/>
+        <color id="radio_hot_face" value="#f09383"/>
         <color id="radio_focus_face" value="#41444a"/>
         <color id="menuitem_normal_text" value="#1d8991"/>
         <color id="menuitem_disabled_text" value="#202125"/>
@@ -106,11 +102,11 @@
         <color id="timeline_normal" value="#1d8991"/>
         <color id="timeline_normal_text" value="#1d8991"/>
         <color id="timeline_hover" value="#d9d9d9"/>
-        <color id="timeline_hover_text" value="#636d79"/>
+        <color id="timeline_hover_text" value="#da103f"/>
         <color id="timeline_active" value="#1d8991"/>
         <color id="timeline_active_text" value="#1d8991"/>
         <color id="timeline_active_hover" value="#99b3c2"/>
-        <color id="timeline_active_hover_text" value="#1d8991"/>
+        <color id="timeline_active_hover_text" value="#da103f"/>
         <color id="timeline_clicked" value="#536069"/>
         <color id="timeline_clicked_text" value="#1d8991"/>
         <color id="timeline_focused_text" value="#41444a"/>

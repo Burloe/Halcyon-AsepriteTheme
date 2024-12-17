@@ -1,0 +1,19 @@
+{
+  "name": "Halcyon Theme",
+  "displayName": "Halcyon Theme",
+  "description": "Halcyon theme for Aseprite(inspired by Horizon VSCode theme)",
+  "version": "1.0",
+  "author": { "name": "Burloe", "email": "burloe@proton.me", "url": "https://burloe.itch.io/" },
+  "contributors": [
+  ],
+  "publisher": "Burloe",
+  "license": "MIT",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "Halcyon Theme", "path": "." }
+    ]
+  }
+}

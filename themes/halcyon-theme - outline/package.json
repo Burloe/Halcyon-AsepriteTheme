@@ -1,7 +1,7 @@
 {
-  "name": "horizon-sundown",
-  "displayName": "Horizon Sundown",
-  "description": "Dark Horizon theme for Aseprite(inspired heavily by Horizon VSCode theme)",
+  "name": "Halcyon Theme - Outline",
+  "displayName": "Halcyon Theme - Outline",
+  "description": "Halcyon theme for Aseprite(inspired by Horizon VSCode theme)",
   "version": "1.0",
   "author": { "name": "Burloe", "email": "burloe@proton.me", "url": "https://burloe.itch.io/" },
   "contributors": [
@@ -13,7 +13,7 @@
   ],
   "contributes": {
     "themes": [
-      { "id": "Horizon Sundown Theme", "path": "." }
+      { "id": "Halcyon Theme - Outline", "path": "." }
     ]
   }
 }
