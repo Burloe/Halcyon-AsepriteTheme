@@ -6,6 +6,6 @@ This theme gives Aseprite a subtle facelift along with custom icons to spruce up
 Download the `.aseprite-extension` file in the `themes` folder and double click it to prompt Aseprite to install the theme. 
 
 ## ![coverimg200](https://github.com/user-attachments/assets/b9f913e9-29ce-412f-bf0d-e7b7b49c45e9)
-## ![image](https://github.com/user-attachments/assets/efb3c6d5-fbee-4bac-a247-4260edac5186)
+## ![Showcase1080](https://github.com/user-attachments/assets/e870b71d-2d78-44e9-a181-de21a005e882)
 
-Inspired by the visual themes of the game Dead Cells and the color palette from the VSCode theme Horizon.
+*Inspired by the visual themes of the game Dead Cells and the color palette from the VSCode theme Horizon*
